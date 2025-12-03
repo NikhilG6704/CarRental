@@ -9,37 +9,31 @@ Deployed on **Vercel** with a clean and intuitive UI for customers & car owners.
 
 ## 📸 **Screenshots**
 
-> (Images are stored on Google Drive — clickable thumbnails open full-resolution versions.)
-
 ### 🏠 Home Page
-
-<a href="https://drive.google.com/file/d/1sqgG2wAt-s0C1fJ-dfwN6Qn8si3dsTKt/view?usp=sharing" target="_blank">
-  <img src="https://drive.google.com/thumbnail?id=1sqgG2wAt-s0C1fJ-dfwN6Qn8si3dsTKt" width="700" />
+<a href="https://drive.google.com/file/d/1sqgG2wAt-s0C1fJ-dfwN6Qn8si3dsTKt/view?usp=sharing">
+  <img src="https://drive.google.com/uc?export=view&id=1sqgG2wAt-s0C1fJ-dfwN6Qn8si3dsTKt" width="700" />
 </a>
 
 ### 🚘 Cars Listing
-
-<a href="https://drive.google.com/file/d/1GUPaWzICehbC9Klsy0o4yuVtEaawm03C/view?usp=sharing" target="_blank">
-  <img src="https://drive.google.com/thumbnail?id=1GUPaWzICehbC9Klsy0o4yuVtEaawm03C" width="700" />
+<a href="https://drive.google.com/file/d/1GUPaWzICehbC9Klsy0o4yuVtEaawm03C/view?usp=sharing">
+  <img src="https://drive.google.com/uc?export=view&id=1GUPaWzICehbC9Klsy0o4yuVtEaawm03C" width="700" />
 </a>
 
 ### 🚗 Car Details
-
-<a href="https://drive.google.com/file/d/19-tdNcgTH3Q4T_ZoiYySMA5vx2tEHQOf/view?usp=sharing" target="_blank">
-  <img src="https://drive.google.com/thumbnail?id=19-tdNcgTH3Q4T_ZoiYySMA5vx2tEHQOf" width="700" />
+<a href="https://drive.google.com/file/d/19-tdNcgTH3Q4T_ZoiYySMA5vx2tEHQOf/view?usp=sharing">
+  <img src="https://drive.google.com/uc?export=view&id=19-tdNcgTH3Q4T_ZoiYySMA5vx2tEHQOf" width="700" />
 </a>
 
 ### 📊 Owner Dashboard
-
-<a href="https://drive.google.com/file/d/1D4hfyhyiKgvzBRf-TjakitA6DE4cz-KH/view?usp=sharing" target="_blank">
-  <img src="https://drive.google.com/thumbnail?id=1D4hfyhyiKgvzBRf-TjakitA6DE4cz-KH" width="700" />
+<a href="https://drive.google.com/file/d/1D4hfyhyiKgvzBRf-TjakitA6DE4cz-KH/view?usp=sharing">
+  <img src="https://drive.google.com/uc?export=view&id=1D4hfyhyiKgvzBRf-TjakitA6DE4cz-KH" width="700" />
 </a>
 
 ### ➕ Add Car Page
-
-<a href="https://drive.google.com/file/d/1EwYdQUf7jYG6qaxCNBnZo4wV_ZIzpJiq/view?usp=sharing" target="_blank">
-  <img src="https://drive.google.com/thumbnail?id=1EwYdQUf7jYG6qaxCNBnZo4wV_ZIzpJiq" width="700" />
+<a href="https://drive.google.com/file/d/1EwYdQUf7jYG6qaxCNBnZo4wV_ZIzpJiq/view?usp=sharing">
+  <img src="https://drive.google.com/uc?export=view&id=1EwYdQUf7jYG6qaxCNBnZo4wV_ZIzpJiq" width="700" />
 </a>
+
 
 ---
 
