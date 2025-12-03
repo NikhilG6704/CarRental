@@ -179,7 +179,7 @@ IMAGEKIT_URL_ENDPOINT=...
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/NikhilG6704/CarRental.git
 cd CarRental
 ```
 
